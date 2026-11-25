@@ -1,4 +1,4 @@
-# Hi, I'm Lojaine 👋
+# Hi, I'm Lojaine
 
 **Business Informatics @ GIU | Data Analytics · Business Intelligence · Web Development**
 
@@ -8,7 +8,7 @@ I'm most motivated by problems with real-world stakes: sustainability, access to
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Data & Analytics**
 
@@ -40,28 +40,28 @@ I'm most motivated by problems with real-world stakes: sustainability, access to
 
 ---
 
-## 💡 What I Focus On
+## What I Focus On
 
-**📊 Business Intelligence & Analytics**
+**Business Intelligence & Analytics**
 - Interactive Power BI reports with KPIs, slicers and drill-downs
 - Financial ratio analysis and competitor benchmarking
 - Cleaning and shaping data so it's ready to answer real questions
 - Statistical analysis in R
 
-**💻 Web Development**
+**Web Development**
 - React frontends with clean, simple interfaces built around the user
 - Connecting frontends to Express REST APIs
 
-**🌱 Business × Technology**
+**Business × Technology**
 - Turning business problems into data and software solutions
 - Sustainability and impact-driven products
 - Digital products for underserved users in Egypt
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 💧 Ayn | Drip Irrigation Funding Platform *(in active development)*
+### Ayn | Drip Irrigation Funding Platform *(in active development)*
 **Companies fund the switch to drip irrigation for small Egyptian farmers, and get verified impact for their sustainability reports.**
 
 Flood irrigation wastes huge amounts of water, but most small farmers can't afford a drip kit up front. On Ayn, a cooperative officer registers a farm with an installer's quote, a company funds the kit and sets a reward for the farmer, and the reward is released once the installation is proven and confirmed.
@@ -72,9 +72,10 @@ Flood irrigation wastes huge amounts of water, but most small farmers can't affo
 - Company impact dashboard: farms funded and feddans switched to drip
 
 **Tech:** React · Node.js / Express · MongoDB · JWT auth
-🔗 [Repository](https://github.com/faridahtarek/ayn)
 
-### ☁️ AWS Cloud Portfolio | Full-Stack App Deployed on AWS
+[Repository](https://github.com/faridahtarek/ayn)
+
+### AWS Cloud Portfolio | Full-Stack App Deployed on AWS
 **A profile management web app with image uploads, designed and deployed on a complete AWS architecture.**
 
 Built to show how a real application runs in the cloud end to end, from networking and access control through to storage, compute and monitoring.
@@ -87,19 +88,20 @@ Built to show how a real application runs in the cloud end to end, from networki
 
 **Tech:** React · TypeScript · Node.js / Express · Vite · Tailwind CSS · AWS
 
-### 🎓 Nawara | Student Career Hub
+### Nawara | Student Career Hub
 **A calm, all-in-one space for students hunting for internships.**
 
 Track job applications in one place and get feedback on your CV before you apply.
 
-- 🏆 Selected as a top Business Informatics project and presented at GIU's First Student Poster Conference (January 2026)
+- Selected as a top Business Informatics project and presented at GIU's First Student Poster Conference (January 2026)
 
 **Tech:** HTML · CSS · JavaScript
-🔗 [Live demo](https://nawaraa.vercel.app/)
+
+[Live demo](https://nawaraa.vercel.app/)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lojainesoliman&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Lojaine's GitHub stats" />
@@ -112,10 +114,10 @@ Track job applications in one place and get feedback on your CV before you apply
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lojaine-soliman-212150315)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaherlojaine@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lojainesoliman)
 
-📬 **Open to:** internships in data analytics, business intelligence, cloud and digital transformation, in Egypt or Germany.
+**Open to:** internships in data analytics, business intelligence, cloud and digital transformation, in Egypt or Germany.
