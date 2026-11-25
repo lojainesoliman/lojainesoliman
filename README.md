@@ -2,7 +2,7 @@
 
 **Business Informatics @ GIU | Data Analytics · Business Intelligence · Web Development**
 
-I work where data meets decision-making. I build dashboards that don't just report numbers but explain what's driving them, and web products that make complex processes feel effortless for the people who use them.
+I turn raw data into clear decisions and ideas into working products, bringing business thinking and technical skill to the same table.
 
 I'm most motivated by problems with real-world stakes: sustainability, access to opportunity, and digital tools for communities that technology often overlooks.
 
@@ -73,6 +73,19 @@ Flood irrigation wastes huge amounts of water, but most small farmers can't affo
 
 **Tech:** React · Node.js / Express · MongoDB · JWT auth
 🔗 [Repository](https://github.com/faridahtarek/ayn)
+
+### ☁️ AWS Cloud Portfolio | Full-Stack App Deployed on AWS
+**A profile management web app with image uploads, designed and deployed on a complete AWS architecture.**
+
+Built to show how a real application runs in the cloud end to end, from networking and access control through to storage, compute and monitoring.
+
+- **Networking:** custom VPC with a public subnet, Internet Gateway and Security Groups
+- **Security:** IAM role attached to the EC2 instance, so no access keys live in the code
+- **Storage:** Amazon S3 for uploaded images and DynamoDB for profile data
+- **Compute:** Amazon EC2 running Amazon Linux 2023
+- **Monitoring:** CloudWatch logging for the server
+
+**Tech:** React · TypeScript · Node.js / Express · Vite · Tailwind CSS · AWS
 
 ### 🎓 Nawara | Student Career Hub
 **A calm, all-in-one space for students hunting for internships.**
